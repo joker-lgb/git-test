@@ -4,7 +4,7 @@ public class Test {
     }
 
     public void getname(){
-        System.out.println("zs");
+        System.out.println("zs update");
         System.out.println("ls update");
         
     }
