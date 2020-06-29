@@ -5,5 +5,6 @@ public class Test {
 
     public void getname(){
         System.out.println("zs");
+        System.out.println("ls");
     }
 }
